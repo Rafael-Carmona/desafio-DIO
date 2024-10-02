@@ -1,27 +1,24 @@
-# package_name
+# Processamento de Imagem
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+## Descrição
+O pacote `nome_do_pacote` é utilizado para:
+  - Aplicar técnicas de processamento de imagem.
+  - Realizar transformações e filtragens em imagens.
 
-## Installation
+## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o `nome_do_pacote`:
 
 ```bash
-pip install package_name
+pip install nome_do_pacote
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from nome_do_pacote.nome_do_modulo1 import nome_do_arquivo1
+nome_do_arquivo1.minha_funcao()
 ```
 
 ## Author
-My_name
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Rafael
